@@ -4,6 +4,13 @@ title: Publications
 subtitle: A bit of contribution, here and there.
 ---
 
+## 2021
+
+- **MIPE: A Metric Independent Pipeline for Effective Code-Mixed NLG Evaluation**: <br>
+    Ayush Garg,<u> Sammed Shantinath Kagi </u>, Vivek Srivastava </u>, Mayank Singh <br>
+    Accepted at Eval4NLP Workshop @ Empirical Methods in Natural Language Processing (EMNLP) 2021 <br>
+    [Paper](https://aclanthology.org/2021.eval4nlp-1.13/)
+
 ## 2020
 
 - **SEAL: Scientific Keyphrase Extraction and Classification**: <br>
